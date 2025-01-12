@@ -7,6 +7,6 @@ This is automated invoice data extraction pipline using LLM. It allows user to u
 [Link Here](https://github.com/praleshraya/llm_applications/blob/main/prompts/invoice_data_extraction.txt)
 
 ### Table schema
-[Link Here](https://link-url-here.org)
+[Link Here](https://github.com/praleshraya/llm_applications/blob/main/sql/test_client.sql)
 
 
