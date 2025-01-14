@@ -9,4 +9,9 @@ This is automated invoice data extraction pipline using LLM. It allows user to u
 ### Table schema
 [Link Here](https://github.com/praleshraya/llm_applications/blob/main/sql/test_client.sql)
 
+### DEMO 
+
+
+https://github.com/user-attachments/assets/675354c0-4952-48af-8db8-dba5f5a6c54e
+
 
